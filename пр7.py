@@ -1,6 +1,6 @@
 from math import *
 def t2(x, y):
-    return sqrt(x**2+y**2) # квадрат гипотенузы
+    return sqrt(x**2+y**2)
 if t2(10,8)>t2(11,4):
     print('1-ая больше')
 else:
